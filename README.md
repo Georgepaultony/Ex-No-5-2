@@ -37,6 +37,7 @@ Switch to drawing mode from design mode
 
 ## OUTPUT
 
+![Ex5-2](./img/ex5-2.png)
 
 ## RESULT:
 Thus, the given 3D model is converted into orthographic view.
